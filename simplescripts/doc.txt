@@ -1,0 +1,4 @@
+if you want the commands of simple scripts to be accessible everywhere then
+add the bin path to your path varibale
+
+PATH="$PATH:/root-folder/simplescripts/bin"
